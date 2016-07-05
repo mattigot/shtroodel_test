@@ -6,7 +6,7 @@ what i worte will not really work.
 we need to setup an ssh key on your pc, and update it in your git account. 
 i will show you tomorrow.
 
-and then we will do thing a bit differntly .
+and thasdfsdfen we will do thing a bit differntly .
 
 
 -----------------------
