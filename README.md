@@ -1,4 +1,5 @@
 # shtroodel_test
+asfsf
 
 Hey Eitan 
 
@@ -7,7 +8,9 @@ we need to setup an ssh key on your pc, and update it in your git account.
 i will show you tomorrow.
 
 and thasdfsdfen we will do thing a bit differntly .
-
+asdfsdf
+asfs
+fas
 
 -----------------------
 This is the first commit i made after i downloaded git
